@@ -1,5 +1,5 @@
 # Social-Media-Website
-This Website is similar to any of social web app. Here we can
+This Website is similar to any of social web app. Here we can - 
 1- Add friend in our friend list.
 2- Remove friend from our friend list.
 3- We can search friends.
